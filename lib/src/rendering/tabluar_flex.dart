@@ -2,7 +2,7 @@ import 'dart:math' as math;
 import 'dart:collection';
 
 import 'package:flutter_web/rendering.dart';
-import 'package:futter_web/foundation.dart';
+import 'package:flutter_web/foundation.dart';
 
 bool _startIsTopLeft(Axis direction, TextDirection textDirection,
     VerticalDirection verticalDirection) {
