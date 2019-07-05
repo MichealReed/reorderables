@@ -1,6 +1,6 @@
-import 'package:flutter/rendering.dart';
-import 'package:flutter/animation.dart';
-import 'package:flutter/foundation.dart';
+import 'package:flutter_web/rendering.dart';
+import 'package:flutter_web/animation.dart';
+import 'package:flutter_web/foundation.dart';
 
 class RenderSizeTransitionWithIntrinsicSize extends RenderProxyBox {
   RenderSizeTransitionWithIntrinsicSize({

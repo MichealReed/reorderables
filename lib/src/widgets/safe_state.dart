@@ -1,4 +1,4 @@
-import 'package:flutter/widgets.dart';
+import 'package:flutter_web/widgets.dart';
 
 mixin SafeStateMixin<T extends StatefulWidget> on State<T> {
   @override

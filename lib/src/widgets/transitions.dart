@@ -1,5 +1,5 @@
-import 'package:flutter/widgets.dart';
-import 'package:flutter/foundation.dart';
+import 'package:flutter_web/widgets.dart';
+import 'package:flutter_web/foundation.dart';
 
 import '../rendering/transitions.dart';
 
